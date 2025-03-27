@@ -105,7 +105,6 @@ Media queries are used to ensure the layout works across all device sizes:
 
 ## Screenshots
 
-[Insert screenshots here]
 
 ## License
 
